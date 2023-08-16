@@ -1,0 +1,9 @@
+* {
+  margin: 0; /*espaçaento externos dos elementos*/
+  padding: 0; /*espaçamento interno dos elementos*/
+  box-sizing: border-box; /*larguras das caixas*/
+}
+
+ul {
+  list-style: none;
+}
